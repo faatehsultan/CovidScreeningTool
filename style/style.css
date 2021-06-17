@@ -1,0 +1,29 @@
+:root {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+body {
+  max-width: 450px;
+}
+
+.topContainer {
+  background-color: #e9ecef;
+}
+
+.logo-small-top {
+  transform: translateY(18px);
+}
+.zeroBtn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.modal-dialog {
+  height: 100%;
+  margin: 0;
+  background-color: white;
+}
+.modal-content {
+  border: none;
+}
